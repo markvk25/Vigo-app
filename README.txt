@@ -1,1 +1,0 @@
-VIGO Webapp v5 FIX. Vervang op GitHub minimaal index.html en sw.js. Daarna de webapp van het beginscherm verwijderen, Safari-site opnieuw openen/verversen en opnieuw 'Zet op beginscherm'.
